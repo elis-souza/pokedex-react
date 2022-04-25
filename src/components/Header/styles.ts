@@ -14,7 +14,7 @@ export const Container = styled.div`
     }
 
     .imgLogo img {
-        width: 80%;
+        width: 40%;
         height: auto;
     }
 `;
