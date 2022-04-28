@@ -7,6 +7,7 @@ export const Container = styled.div`
     justify-content: center;
     
     background: var(--header);
+    padding-bottom: 3rem;
 
     .grid {
         display: grid;

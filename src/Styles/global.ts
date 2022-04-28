@@ -19,9 +19,10 @@ export const GlobalStyle = createGlobalStyle`
 
 
     body {
-        background: var(--card-top);
+        background: var(--header);
         -webkit-font-smoothing: antialiased;
         font-family: 'Open Sans', sans-serif;
+        height: 100vh;
     }
 
     h1 {
